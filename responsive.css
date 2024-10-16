@@ -1,0 +1,274 @@
+@media only screen and (max-width:600px) {
+    
+    .container-fluid {
+
+        overflow: hidden !important;
+    }
+
+    .head-first{
+        font-size: 50px !important;
+        text-align: center;
+        width: 100% !important;
+    }
+
+    .para-first{
+        font-size: 17px !important;
+        width: 100% !important;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .left-text {
+        height: 500px;
+    }
+
+    .right-text{
+
+        height: 250px !important;
+    }
+
+    .carousel-inner{
+
+        border-radius: 20px !important;
+    }
+
+    .third-para{
+        font-size: 17px !important;
+        width: 100% !important;
+    }
+
+    .text-fourth h1 {
+        width: 100% !important;
+        text-align: center;
+        font-size: 25px !important;
+    }
+
+    .left-sixth h1 {
+
+        width: 100% !important;
+    }
+    .number-eight {
+
+        height: 150px !important;
+    }
+    .onen-text{
+
+        font-size: 14px !important;
+    }
+    .onen {
+
+
+        height: 110px !important;
+    }
+    
+    .number-ninth {
+
+        height: 150px !important;
+    }
+    .text-tenth {
+        font-size: 45px !important;
+        height: 110px !important;
+    }
+    .text-tenth h1{
+        font-size: 45px !important;
+    }
+
+    .container {
+
+
+        border: none !important;
+    }
+
+    .number-tenth {
+
+        height: 150px !important;
+    }
+    .number-eleven {
+
+        height: 150px !important;
+    }
+    .text-eleven {
+        height: 105px !important;
+    }
+    .text-eleven h1 {
+
+        font-size: 43px !important;
+
+    }
+    .thirteen-main {
+        padding: 40px !important;
+        padding-bottom: 20px !important;
+        min-height: 150vh;
+        display: flex !important;
+        flex-direction: column-reverse !important;
+
+    }
+    .thirteen {
+        top: 0 !important;
+        height: 150vh !important;
+        flex-direction: column-reverse !important;
+    }
+    .left-thirteen-con {
+        border-top-right-radius: 20px !important;
+        border-bottom-left-radius: 0px !important;
+        border-bottom-right-radius: 0px !important;
+    }
+    .right-thirteen-con {
+        border-top-right-radius: 0px !important;
+        border-bottom-left-radius: 20px !important;
+        border-bottom-right-radius: 20px !important;
+    }
+
+    .fourthteen-con {
+        margin-top: 250px;
+        display: flex; align-items: center; justify-content: center;
+        height: 280vh !important;
+    }
+
+    .head-fifthteen {
+
+        font-size: 40px !important;
+    }
+
+    .para-15 {
+
+        font-size: 16px !important;
+    }
+    .right-sixthteen {
+
+        min-height: 110vh !important;
+    }
+    .image-1-sixthteen {
+
+        top: 0 !important;
+    }
+    .image-2-sixthteen {
+
+        right: 0 !important;
+        bottom: 40px !important;
+    }
+    .logo {
+
+        width: 100% !important;
+        margin-left: -65px !important;
+    }
+    
+}
+@media only screen and (max-width:435px) {
+    .container-fluid {
+
+        overflow: hidden !important;
+    }
+    .head-first{
+        font-size: 40px !important;
+        text-align: center;
+        width: 100% !important;
+    }
+
+    .para-first{
+        font-size: 17px !important;
+        width: 100% !important;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .left-text {
+        height: 500px;
+    }
+
+    .right-text{
+
+        height: 180px !important;
+    }
+
+    .carousel-inner{
+
+        border-radius: 20px !important;
+    }
+    .text-eight {
+
+        height: 100px !important;
+    }
+    .text-ninth {
+
+        height: 95px !important;
+    }
+    .basila {
+
+
+        font-size: 13px !important;
+    }
+    
+    .signature {
+
+
+        width: 100px !important;
+    }
+    .fourthteen-con {
+
+        height: 150vh !important;
+    }
+    .fifthteen {
+        display: flex; align-items: center; justify-content: center; flex-direction: column;
+        margin-top: 200px !important;
+        height: 80vh !important;
+    }
+    .right-sixthteen {
+
+        min-height: 80vh !important;
+    }
+    .image-own {
+
+        width: 100px !important;
+        height: 100px !important;
+    }
+    .onen-text {
+
+        font-size: 17px !important;
+    }
+    .carousel-para {
+
+        font-size: 20px !important;
+    }
+    .testimon {
+
+        height: 69px !important;
+    } 
+    .eighthteen-head {
+
+        font-size: 40px !important;
+    }
+    .left-20 {
+
+        min-height: 200px !important;
+    }
+    .left-2-20 {
+
+        min-height: 400px !important;
+    }
+    .touchh {
+
+        font-size: 30px !important;
+        margin-left: -10px !important;
+    }
+    .right-1-20 {
+
+        min-height: 150px !important;
+    }
+    .right-2-20 {
+
+        min-height: 150px !important;
+    }
+    .left-bottom-20 {
+
+        min-height: 200px !important;
+    } 
+    .left-bottom-20  h1{
+
+        font-size: 40px !important;
+    } 
+    .right-bottom-20 {
+
+        min-height: 450px !important;
+    }
+}
