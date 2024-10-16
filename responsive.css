@@ -205,10 +205,11 @@
         width: 100px !important;
     }
     .thirteen {
+        overflow: none !important;
         height: 100vh !important;
     }
     .fourthteen-con {
-
+        overflow: none !important;
         height: 200vh !important;
     }
     .fifthteen {
