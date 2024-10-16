@@ -204,9 +204,12 @@
 
         width: 100px !important;
     }
+    .thirteen {
+        height: 100vh !important;
+    }
     .fourthteen-con {
 
-        height: 150vh !important;
+        height: 200vh !important;
     }
     .fifthteen {
         display: flex; align-items: center; justify-content: center; flex-direction: column;
